@@ -1,6 +1,6 @@
 # Calcureact
 
-A calculator built using [React.js](https://react.dev/) that instantly reacts to user input to show real time results.
+A calculator built using [React.js](https://react.dev/) that instantly reacts to user input to show real time results without waiting for "=" button to be pressed. Built & deployed using GitHub Actions in [GitHub pages](https://dayenadas.github.io/Calcureact/).
 
 ## Usage:
 
